@@ -1,0 +1,6 @@
+git status 
+git add .
+git commit -m "update log"
+git push
+username
+password
